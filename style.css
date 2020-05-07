@@ -1,0 +1,28 @@
+html,body{
+  scroll-behavior: smooth;
+}
+
+.banner{
+  height: 300px ;
+  width: 100%;
+  color: white ;
+}
+section h3{
+  
+  padding: 20px ;
+  padding-top: 50px;
+  font-weight: 600;
+}
+.about{
+  height: 500px;
+  width: 100%;
+  
+}
+.about .content{
+  padding: 20px ;
+}
+i {
+  font-size: 20px ;
+  text-align: center ;
+  
+}
